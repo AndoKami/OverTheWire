@@ -1,0 +1,1 @@
+on utilise la commande : strings data.txt | grep "==="

@@ -1,0 +1,2 @@
+pour se connecter au serveur sur le port 2220 , on utilise la commande ssh "ssh bandit0@bandit.labs.overthewire.org -p 2220"
+mot de passe : bandit0

@@ -1,0 +1,1 @@
+ sort ~/data.txt | uniq -u sera la commande utiliser pour afficher le mot de passe et affichera la seule ligne en utilisant la commande unique avec le parametre -u 

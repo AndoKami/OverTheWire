@@ -1,0 +1,4 @@
+crée deux terminal connecter au lvl 20 
+dans le temrinal 1 : nc -l 1234 < /etc/bandit_pass/bandit20
+et dans le terminal 2 : ./suconnect 1234 
+quand les mot de passes se ressembles le mot de passe sera renvoyer au terminal 1 

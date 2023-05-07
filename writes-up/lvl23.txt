@@ -1,0 +1,8 @@
+cd /etc/cron.d
+cat /usr/bin/cronjob_bandit24.sh
+ mkdir /tmp/andoo
+chmod 777 /tmp/andoo
+cd /tmp/andoo
+nano shell-andoo.sh
+cp shell-andoo.sh /var/spool/bandit24/
+cat ikikunci 

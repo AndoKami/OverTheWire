@@ -1,0 +1,2 @@
+ la commande utiliser est : cat data.txt | tr '[A-Za-z]' '[N-ZA-Mn-za-m]'
+ tr → Utilisé pour inverser la chaîne, Mn est le caractère Az dans la chaîne encodée. Cette commande inversera donc les chaînes de caractères jusqu'au caractère 13 précédent afin de décoder les chaînes de caractères.

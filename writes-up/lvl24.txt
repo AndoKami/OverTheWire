@@ -1,0 +1,13 @@
+nc localhost 30002
+mkdir /tmp/bforcing
+cd /tmp/bforcing
+nano bforcer.sh#!/bin/bash
+
+for i in {0000..9999};
+do  
+    echo VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar $i >> codes 
+done
+
+cat codes | nc localhost 30002 > log.txt
+cat log.txt | grep -v Wrong
+$ sh brute_force.sh

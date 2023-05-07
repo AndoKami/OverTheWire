@@ -1,0 +1,1 @@
+utiliser la commade : cat ~/spaces\ in\ this\ filename

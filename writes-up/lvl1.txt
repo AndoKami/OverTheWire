@@ -1,0 +1,3 @@
+commande a utiliser : 
+- ls : pour aficher le contenur du fichier 
+- cat ~/- : qui vas afficher dans le terminal le contenur du fichier 

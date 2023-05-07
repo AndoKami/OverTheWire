@@ -1,0 +1,4 @@
+ls : pour trouver le dosseier inhere
+cd inhere: poyur aller vers le dossier inhere
+ls -a : pour afficher le fichier cacher .hidden 
+cat .hidden pour afficher le contenu du fichier 

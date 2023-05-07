@@ -1,0 +1,2 @@
+find / -user bandit 7 -group bandit6 -size 33c 2>/dev/null : cherche le fichier en prenant en compte les paramettre et le 2>/dev/null enleve toute les permission presente 
+ensuite naviguer dans le fichier sorti : cat /var/lib/dpkg/info/bandit7.password

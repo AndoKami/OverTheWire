@@ -1,0 +1,2 @@
+utiliser la commande "grep millionth ~/data.txt " pour afficher la contenue apres le mot " millionth"
+on peut aussi l'afficher en utilisant grep millionth ~/data.txt | awk '{print $2}'

@@ -1,0 +1,9 @@
+nmap -p 31000-32000 localhost
+cat /etc/bandit_pass/bandit16
+openssl s_client -connect localhost:31790
+cd /tmp 	
+nano ssh-17.private
+ ssh -i ssh-17.private bandit17@localhost
+chmod 600 ssh-17.private
+ssh -i ssh-17.private bandit17@localhost
+bandit17@bandit:~$ cat /etc/bandit_pass/bandit17

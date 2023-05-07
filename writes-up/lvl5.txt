@@ -1,0 +1,2 @@
+ find ~/inhere/ -type f -readable -size 1033c ! -executable -exec file {} \; | grep "ASCII text" : pour chercher le fichier contenant tout les parametre demander
+cd inhere -> ls -> cd maybehere07 -> ls -> cat .file2 : se deplacer jusqu'au fichier afficher 

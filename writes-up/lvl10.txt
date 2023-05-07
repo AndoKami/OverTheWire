@@ -1,0 +1,1 @@
+la commande base64 decode l'encodages bases64 , et la commade "base64 -d ~/data.txt " affiche le contenue décoder

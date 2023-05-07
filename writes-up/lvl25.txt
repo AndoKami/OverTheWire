@@ -1,0 +1,4 @@
+$ cat /etc/passwd | grep bandit26
+$ ls -la /usr/bin/showtext
+$ cat /usr/bin/showtext
+:e /etc/bandit\_pass/bandit26

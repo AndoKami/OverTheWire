@@ -1,0 +1,2 @@
+file ~/inhere/* : pour afficher le types de fichier dans le dossier inhere
+cat ~/inhere/-files07 : files07  est le fichier contenant le mote de passe car il est de type ascII donc est "human - readable"
